@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+title: "Building Fairness Into the Data Supply Chain"
+message: "If you use this workshop, please cite it as below."
+type: software
+authors:
+  - family-names: Brim
+    given-names: Waverly Rose
+version: "1.0"
+date-released: "2026-11-04"
+license: Apache-2.0
+url: "https://datasupplychain.waverlyrose.io"
+repository-code: "https://github.com/CareMeetsCode/data-supply-chain-workshop"
+keywords:
+  - algorithmic fairness
+  - clinical AI
+  - eGFR
+  - race in medicine
+  - data pipeline
+  - AfroTech 2026
+abstract: >
+  A 60-minute hands-on workshop that traces how bias embedded in the eGFR
+  kidney function formula propagates through three stages of a clinical data
+  pipeline — measurement, modeling, and medication eligibility — using real
+  CDC NHANES data with linked mortality outcomes.
